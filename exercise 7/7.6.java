@@ -19,16 +19,16 @@ class PyramidProblem {
 		{04, 62, 98, 27, 23, 9, 70, 98, 73, 93, 38, 53, 60, 04, 23}
         };
     public static void main(String[] args) {
-        yolo(0, 0, 0);
+        PyramidSums(0, 0, 0);
         System.out.print("Anzahl der Summen: " + summen.size() + "\nMax Summe: "+Collections.max(summen));
     }
-    public static void yolo(int wert, int x, int y) {
+    public static void PyramidSums(int wert, int x, int y) {
         wert += input[x][y];
         if (x + 1 == input.length) {
             summen.add(wert);
         } else {
-            yolo(wert, x + 1, y);
-            yolo(wert, x + 1, y + 1);
+            PyramidSums(wert, x + 1, y);
+            PyramidSums(wert, x + 1, y + 1);
         }
     }
 }

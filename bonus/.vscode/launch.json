@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - xmas",
+            "request": "launch",
+            "mainClass": "xmas",
+            "projectName": "bonus_b0d83894"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - asd",
+            "request": "launch",
+            "mainClass": "asd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp2",
+            "request": "launch",
+            "mainClass": "exp2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp1",
+            "request": "launch",
+            "mainClass": "exp1"
+        }
+    ]
+}

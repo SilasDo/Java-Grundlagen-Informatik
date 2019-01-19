@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a66",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a66",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a65",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a65",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a64",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a64",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a63",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a63",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a62",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a62",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a61",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a61",
+            "args": ""
+        }
+    ]
+}

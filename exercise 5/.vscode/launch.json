@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VowelRemover",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "VowelRemover",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a53",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a53",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a52",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a52",
+            "args": ""
+        }
+    ]
+}

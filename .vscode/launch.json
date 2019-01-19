@@ -1,0 +1,78 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VowelRemover",
+            "request": "launch",
+            "mainClass": "VowelRemover",
+            "projectName": "Java GINF_dcc1644"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a51",
+            "request": "launch",
+            "mainClass": "a51",
+            "projectName": "Java GINF_dcc1644"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uebung7_aufgabe6_2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "uebung7_aufgabe6_2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a72",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a72",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a75",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a75",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a82",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a82",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a71",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a71",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a62",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "a62",
+            "args": ""
+        }
+    ]
+}

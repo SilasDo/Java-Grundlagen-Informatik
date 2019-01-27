@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kofferpacken",
+            "request": "launch",
+            "mainClass": "Kofferpacken",
+            "projectName": "exercise 10_f36c3a1c",
+            "args": "10"
+        }
+    ]
+}
